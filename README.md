@@ -1,4 +1,4 @@
 # Payaso
  Juego de tirar los dientes al payaso
 
-<img src="/Assets/Payaso/payasoIcono.png" width="300" height="500"/>
+<img src="/Assets/Payaso/payasoIcono.png" width="300" height="400"/>
